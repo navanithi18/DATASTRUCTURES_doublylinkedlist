@@ -40,7 +40,7 @@ class dll{
 
 }
 
-public class Main{
+public class INSERTATBEGINING{
     public static void main (String []args){
         dll l=new dll();
         l.insertAtbegin(10);
